@@ -1,9 +1,6 @@
 # Dataset used for publications related to UNIQmin
 
-# Tool
-[UNIQmin](https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin) 
-[![PyPI](https://img.shields.io/pypi/v/uniqmin?logo=pypi)](https://pypi.org/project/uniqmin/)
-[![GitHub tag](https://img.shields.io/github/tag/ChongLC/MinimalSetofViralPeptidome-UNIQmin)](https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin/releases/?include_prereleases&sort=semver "View GitHub releases")
+### **Tool:** [UNIQmin](https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin)  &nbsp; [![PyPI](https://img.shields.io/pypi/v/uniqmin?logo=pypi)](https://pypi.org/project/uniqmin/)  &nbsp; [![GitHub tag](https://img.shields.io/github/tag/ChongLC/MinimalSetofViralPeptidome-UNIQmin)](https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin/releases/?include_prereleases&sort=semver "View GitHub releases")
 
 ## Protocol paper 
 <!-- 
