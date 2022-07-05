@@ -1,6 +1,9 @@
 # Dataset used for publications related to UNIQmin
 
-### **Tool:** [UNIQmin](https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin)  &nbsp; [![PyPI](https://img.shields.io/pypi/v/uniqmin?logo=pypi)](https://pypi.org/project/uniqmin/)  &nbsp; [![GitHub tag](https://img.shields.io/github/tag/ChongLC/MinimalSetofViralPeptidome-UNIQmin)](https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin/releases/?include_prereleases&sort=semver "View GitHub releases")
+### **Tool:** [UNIQmin](https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin) <br>
+[![PyPI](https://img.shields.io/pypi/v/uniqmin?logo=pypi)](https://pypi.org/project/uniqmin/)  &nbsp; [![GitHub tag](https://img.shields.io/github/tag/ChongLC/MinimalSetofViralPeptidome-UNIQmin)](https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin/releases/?include_prereleases&sort=semver "View GitHub releases")
+
+<br> 
 
 ## Protocol paper 
 <!-- 
@@ -20,6 +23,8 @@ example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3
 | Semi-conserved (1 <= *H* < 2)   | DENV NS3                   | [![Download](https://img.shields.io/badge/DL-DENV_NS3-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ProtocolPaper/BP4/DENV_NS3.fasta)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ProtocolPaper/BP4/DENV_NS3.fasta)                         |
 | Diverse (2 <= *H* < 3)          | DENV NS2a                  | [![Download](https://img.shields.io/badge/DL-DENV_NS2a-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ProtocolPaper/BP4/DENV_NS2a.fasta)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ProtocolPaper/BP4/DENV_NS2a.fasta)                       |
 | Extremely diverse (*H* >= 3)    | HIV-1 clade B Nef          | [![Download](https://img.shields.io/badge/DL-HIV_1_clade_B_Nef-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ProtocolPaper/BP4/HIV_1_cladeB_Nef.fasta)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ProtocolPaper/BP4/HIV_1_cladeB_Nef.fasta) |
+
+<br> 
 
 ## Paper related to mapping across major viral taxonomies
 <!-- 
