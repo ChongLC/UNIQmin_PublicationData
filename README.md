@@ -6,6 +6,8 @@
 ## Table of contents
 - [Protocol paper](#protocol-paper)
 - [Application papers](#application-papers)
+  * [UNIQmin application to all viruses](#mapping-the-minimal-set-of-the-viral-peptidome-across-major-viral-taxonomic-lineages)
+  * [UNIQmin application to SARS-CoV-2](#negligible-peptidome-diversity-of-sars-cov-2-and-its-higher-taxonomic-ranks)
 - [Citing resources](#citing-resources)
 - [Found a bug](#found-a-bug)
 
@@ -42,7 +44,7 @@ example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3
 --- 
 ## Application papers: 
 ### UNIQmin application to all viruses: 
-### Mapping the Minimal Set of the Viral Peptidome across Major Viral Taxonomic Lineages
+### Mapping the minimal set of the viral peptidome across major viral taxonomic lineages
 <!-- 
 example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3390%2Fbiology10090853-2ea44f)](https://doi.org/10.3390/biology10090853)
 -->
