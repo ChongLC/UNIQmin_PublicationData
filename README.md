@@ -5,14 +5,18 @@
 
 ## Table of contents
 - [Protocol paper](#protocol-paper)
+  - UNIQmin, an alignment-free tool to study viral sequence diversity across taxonomic lineages: a case study of monkeypox virus
 - [Application papers](#application-papers)
   * [UNIQmin application to all viruses](#mapping-the-minimal-set-of-the-viral-peptidome-across-major-viral-taxonomic-lineages)
   * [UNIQmin application to SARS-CoV-2](#negligible-peptidome-diversity-of-sars-cov-2-and-its-higher-taxonomic-ranks)
+    - Negligible peptidome diversity of SARS-CoV-2 and its higher taxonomic ranks
 - [Citing resources](#citing-resources)
 - [Found a bug](#found-a-bug)
 
 ## Protocol paper: 
 ### UNIQmin, an alignment-free tool to study viral sequence diversity across taxonomic lineages: a case study of monkeypox virus
+Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint-bioRxiv-blue)](https://www.biorxiv.org/content/10.1101/2022.08.09.503271v2.full)
+
 <!-- 
 example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3390%2Fbiology10090853-2ea44f)](https://doi.org/10.3390/biology10090853)
 -->
@@ -59,7 +63,7 @@ example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3
 <summary>Click to view description of the project</summary> 
 <br> 
 
-> {Description}
+> The unprecedented increase in SARS-CoV-2 sequence data limits the application of alignment-dependent approaches to study viral diversity. Herein, we applied our recently published UNIQmin, an alignment-free tool to study the protein sequence diversity of SARS-CoV-2 (sub-species) and its higher taxonomic lineage ranks (species, genus, and family). Only less than 0.5% of the reported SARS-CoV-2 protein sequences are required to represent the inherent viral peptidome diversity, which only increases to a mere ~2% at the family rank. This is expected to remain relatively the same even with further increases in the sequence data. The findings have important implications in the design of vaccines, drugs, and diagnostics, whereby the number of sequences required for consideration of such studies is drastically reduced, short-circuiting the discovery process, while still providing for a systematic evaluation and coverage of the pathogen diversity.
 
 </details>
 <br>
@@ -75,8 +79,9 @@ example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3
 ---
 ## Citing resources
 * For original paper, please refer to our MDPI Biology paper: <br>
-  Chong, L.C.; Lim, W.L.; Ban, K.H.K.; Khan, A.M. An Alignment-Independent Approach for the Study of Viral Sequence Diversity at Any Given Rank of Taxonomy Lineage. Biology 2021, 10, 853. https://doi.org/10.3390/biology10090853 
-* For protocol paper, <br>
+  Chong, L.C.; Lim, W.L.; Ban, K.H.K.; Khan, A.M. An Alignment-Iindependent Approach for the Study of Viral Sequence Diversity at Any Given Rank of Taxonomy Lineage. Biology 2021, 10, 853. doi: 10.3390/biology10090853 
+* For protocol paper, please refer to our preprint: <br> 
+  Chong, L.C.; Khan, A.M. UNIQmin, An Alignment-free Tool to Study Viral Sequence Diversity across Taxonomic Lineages: A Case Study of Monkeypox Virus. bioRxiv 2022.08.09.503271. doi: 10.1101/2022.08.09.503271
 * For application paper to all viruses, <br> 
 * For application paper to SARS-CoV-2, <br>
 
