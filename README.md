@@ -79,9 +79,9 @@ example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3
 ---
 ## Citing resources
 * For original paper, please refer to our MDPI Biology paper: <br>
-  Chong, L.C.; Lim, W.L.; Ban, K.H.K.; Khan, A.M. An Alignment-Iindependent Approach for the Study of Viral Sequence Diversity at Any Given Rank of Taxonomy Lineage. Biology 2021, 10, 853. doi: 10.3390/biology10090853 
+  [Chong, L.C.; Lim, W.L.; Ban, K.H.K.; Khan, A.M. An Alignment-Iindependent Approach for the Study of Viral Sequence Diversity at Any Given Rank of Taxonomy Lineage. Biology 2021, 10, 853. doi: 10.3390/biology10090853](https://www.mdpi.com/2079-7737/10/9/853) 
 * For protocol paper, please refer to our preprint: <br> 
-  Chong, L.C.; Khan, A.M. UNIQmin, An Alignment-free Tool to Study Viral Sequence Diversity across Taxonomic Lineages: A Case Study of Monkeypox Virus. bioRxiv 2022.08.09.503271. doi: 10.1101/2022.08.09.503271
+  [Chong, L.C.; Khan, A.M. UNIQmin, An Alignment-free Tool to Study Viral Sequence Diversity across Taxonomic Lineages: A Case Study of Monkeypox Virus. bioRxiv 2022.08.09.503271. doi: 10.1101/2022.08.09.503271](https://www.biorxiv.org/content/10.1101/2022.08.09.503271v2.full)
 * For application paper to all viruses, <br> 
 * For application paper to SARS-CoV-2, <br>
 
