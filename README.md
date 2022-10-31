@@ -15,7 +15,7 @@
 
 ## Protocol paper: 
 ### UNIQmin, an alignment-free tool to study viral sequence diversity across taxonomic lineages: a case study of monkeypox virus
-Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint-bioRxiv-blue)](https://www.biorxiv.org/content/10.1101/2022.08.09.503271v2.full)
+Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint-bioRxiv-brightgreen)](https://www.biorxiv.org/content/10.1101/2022.08.09.503271v2.full)
 
 <!-- 
 example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3390%2Fbiology10090853-2ea44f)](https://doi.org/10.3390/biology10090853)
@@ -49,6 +49,7 @@ example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3
 ## Application papers: 
 ### UNIQmin application to all viruses: 
 ### Mapping the minimal set of the viral peptidome across major viral taxonomic lineages
+![Status - In progress](https://img.shields.io/badge/Status-In%20progress-red)
 <!-- 
 example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3390%2Fbiology10090853-2ea44f)](https://doi.org/10.3390/biology10090853)
 -->
@@ -56,9 +57,7 @@ example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3
 
 ### UNIQmin application to SARS-CoV-2: 
 ### Negligible peptidome diversity of SARS-CoV-2 and its higher taxonomic ranks 
-<!-- 
-example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3390%2Fbiology10090853-2ea44f)](https://doi.org/10.3390/biology10090853)
--->
+Publication: &nbsp; ![Preprint - Coming soon!](https://img.shields.io/badge/preprint-Coming%20Soon!-yellow)
 <details>
 <summary>Click to view description of the project</summary> 
 <br> 
