@@ -49,7 +49,7 @@ example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3
 ## Application papers: 
 ### UNIQmin application to all viruses: 
 ### Mapping the minimal set of the viral peptidome across major viral taxonomic lineages
-![Status - In progress](https://img.shields.io/badge/Status-In%20progress-red)
+![Status - In progress](https://img.shields.io/badge/status-In%20progress-red)
 <!-- 
 example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3390%2Fbiology10090853-2ea44f)](https://doi.org/10.3390/biology10090853)
 -->
