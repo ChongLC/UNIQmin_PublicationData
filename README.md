@@ -87,7 +87,7 @@ Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint
   [Chong, L.C.; Khan, A.M. UNIQmin, An Alignment-free Tool to Study Viral Sequence Diversity across Taxonomic Lineages: A Case Study of Monkeypox Virus. *bioRxiv* 2022.08.09.503271. doi: 10.1101/2022.08.09.503271](https://www.biorxiv.org/content/10.1101/2022.08.09.503271v2.full)
 * For application paper to all viruses, <br> 
 * For application paper to SARS-CoV-2, please refer to our preprint: <br> 
-  [Chong, L.c.; Khan, A.M. Negligible Peptidome Diversity of SARS-CoV-2 and its Higher Taxonomic Ranks. *bioRxiv* 2022.10.31.513750. doi: 10.1101/2022.10.31.513750](https://www.biorxiv.org/content/10.1101/2022.10.31.513750v1.full)
+  [Chong, L.C.; Khan, A.M. Negligible Peptidome Diversity of SARS-CoV-2 and its Higher Taxonomic Ranks. *bioRxiv* 2022.10.31.513750. doi: 10.1101/2022.10.31.513750](https://www.biorxiv.org/content/10.1101/2022.10.31.513750v1.full)
 
 ---
 ## Found a bug?
