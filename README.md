@@ -72,12 +72,28 @@ Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint
 <br>
 
 **Compression of SARS-CoV-2 datasets across taxonomy lineage ranks, namely sub-species (proteins), species (with and without SARS-CoV-2), genus, and family:**
+<br> 
+
+**Note:** All data were retrieved as of July 2021. 
 |    Taxonomy lineage rank: Virus     | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
 |-------------------------------------|-----------------------|-------------------------------|-----------------------------------------------------------------------------|
 | Subspecies: SARS-CoV-2 (GISAID)     |      56,340,320       |       1,780,901 (~3.2)        | 273,851 (~0.5) &nbsp; [![Download](https://img.shields.io/badge/DL-Subspecies-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_GISAID_SARSCoV2.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_GISAID_SARSCoV2.zip)      |
 | Species: *SARS-related coronavirus* |      4,669,400        |        480,112 (~10.3)        |      61,819 (~1.3)                                   |
 | Genus: *Betacoronavirus*            |      4,689,400        |        485,220 (~10.3)        |      65,117 (~1.3) &nbsp; [![Download](https://img.shields.io/badge/DL-Genus-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Betacoronavirus.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Betacoronavirus.zip)                               |
 | Family: *Coronaviridae*             |      4,733,200        |        506,374 (~10.7)        |      79,414 (~1.7) &nbsp; [![Download](https://img.shields.io/badge/DL-Family-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Coronaviridae.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Coronaviridae.zip)                                 |
+
+<br>
+
+**Note:** All data were retrieved as of December 2022.
+|    Variant     | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
+|----------------|:---------------------:|:-----------------------------:|:---------------------------------------------------------------------------:|
+| Alpha          | 1,188,924             | 153,732 (~12.9)               | 25,169 (~2.1) |
+| Beta           |
+| Delta          |
+| Gamma          |
+| Mu             |
+| Omicron        |
+
 
 ---
 ## Citing resources
