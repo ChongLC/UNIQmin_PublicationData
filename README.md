@@ -77,32 +77,32 @@ Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint
 **Note:** All data were retrieved as of July 2021. 
 |    Taxonomy lineage rank: Virus     | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
 |-------------------------------------|-----------------------|-------------------------------|-----------------------------------------------------------------------------|
-| Subspecies: SARS-CoV-2 (GISAID)     |      56,340,320       |       1,780,901 (~3.2)        | 273,851 (~0.5) &nbsp; [![Download](https://img.shields.io/badge/DL-Subspecies-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_GISAID_SARSCoV2.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_GISAID_SARSCoV2.zip)      |
+| Subspecies: SARS-CoV-2 (GISAID)     |      56,340,320       |       1,780,901 (~3.2)        | 273,851 (~0.5) &nbsp; <br> [![Download](https://img.shields.io/badge/DL-Subspecies-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_GISAID_SARSCoV2.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_GISAID_SARSCoV2.zip)      |
 | Species: *SARS-related coronavirus* |      4,669,400        |        480,112 (~10.3)        |      61,819 (~1.3)                                   |
-| Genus: *Betacoronavirus*            |      4,689,400        |        485,220 (~10.3)        |      65,117 (~1.3) &nbsp; [![Download](https://img.shields.io/badge/DL-Genus-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Betacoronavirus.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Betacoronavirus.zip)                               |
-| Family: *Coronaviridae*             |      4,733,200        |        506,374 (~10.7)        |      79,414 (~1.7) &nbsp; [![Download](https://img.shields.io/badge/DL-Family-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Coronaviridae.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Coronaviridae.zip)                                 |
+| Genus: *Betacoronavirus*            |      4,689,400        |        485,220 (~10.3)        |      65,117 (~1.3) &nbsp; <br> [![Download](https://img.shields.io/badge/DL-Genus-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Betacoronavirus.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Betacoronavirus.zip)                               |
+| Family: *Coronaviridae*             |      4,733,200        |        506,374 (~10.7)        |      79,414 (~1.7) &nbsp; <br> [![Download](https://img.shields.io/badge/DL-Family-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Coronaviridae.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Coronaviridae.zip)                                 |
 
 <br>
 
 **Note:** All data were retrieved as of December 2022.
-|    Variant     | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
-|----------------|:---------------------:|:-----------------------------:|:---------------------------------------------------------------------------:|
+|    Variant &nbsp; <br> [![Download](https://img.shields.io/badge/DL-EPI_ID_List-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/tree/main/ApplicationPaper_SARS-CoV-2/gisaid_idList_variant)](https://github.com/ChongLC/UNIQmin_PublicationData/tree/main/ApplicationPaper_SARS-CoV-2/gisaid_idList_variant)    | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
+|:--------------:|:---------------------:|:-----------------------------:|:---------------------------------------------------------------------------:|
 | Alpha          | 1,188,924             | 153,732 (~12.9)               | 25,169 (~2.1) |
-| Beta           |
-| Delta          |
-| Gamma          |
-| Mu             |
+| Beta           | 43,299                | 17,766 (~41.0)                | 8,429 (~19.5) | 
+| Delta          | 4,527,917             | 950,886 (~21.0)               | 
+| Gamma          | 129,136               | 27,720 (~21.5)                | 8,246 (~6.4)  |
+| Mu             | 15,792                | 5,277 (~33.4)                 | 2,078 (~13.2) |
 | Omicron        |
 
 
 ---
 ## Citing resources
-* For original paper, please refer to our MDPI Biology paper: <br>
+* For original reference, please refer to our paper: <br>
   [Chong, L.C.; Lim, W.L.; Ban, K.H.K.; Khan, A.M. An Alignment-Iindependent Approach for the Study of Viral Sequence Diversity at Any Given Rank of Taxonomy Lineage. *Biology* 2021, 10, 853. doi: 10.3390/biology10090853](https://www.mdpi.com/2079-7737/10/9/853) 
-* For protocol paper, please refer to our preprint: <br> 
+* For a protocol describing the step-by-step utility of UNIQmin, please refer to our preprint: <br> 
   [Chong, L.C.; Khan, A.M. UNIQmin, An Alignment-free Tool to Study Viral Sequence Diversity across Taxonomic Lineages: A Case Study of Monkeypox Virus. *bioRxiv* 2022.08.09.503271. doi: 10.1101/2022.08.09.503271](https://www.biorxiv.org/content/10.1101/2022.08.09.503271v3.full)
 * For application paper to all viruses, <br> 
-* For application paper to SARS-CoV-2, please refer to our preprint: <br> 
+* For application of UNIQmin to study SARS-CoV-2 lineage diversity, please refer to our preprint: <br> 
   [Chong, L.C.; Khan, A.M. Negligible Peptidome Diversity of SARS-CoV-2 and its Higher Taxonomic Ranks. *bioRxiv* 2022.10.31.513750. doi: 10.1101/2022.10.31.513750](https://www.biorxiv.org/content/10.1101/2022.10.31.513750v1.full)
 
 ---
