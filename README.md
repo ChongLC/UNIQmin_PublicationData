@@ -92,7 +92,7 @@ Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint
 | Delta          | 4,527,917             | 950,886 (~21.0)               | 
 | Gamma          | 129,136               | 27,720 (~21.5)                | 8,246 (~6.4)  |
 | Mu             | 15,792                | 5,277 (~33.4)                 | 2,078 (~13.2) |
-| Omicron        |
+| Omicron        | 6,664,999             | 1,477,721 (~22.2)             | 
 
 
 ---
