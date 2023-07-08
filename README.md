@@ -76,7 +76,7 @@ Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint
 
 **Note:** All data were retrieved as of July 2021. 
 |    Taxonomy lineage rank: Virus     | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
-|-------------------------------------|-----------------------|-------------------------------|-----------------------------------------------------------------------------|
+|:-----------------------------------:|:---------------------:|:-----------------------------:|:---------------------------------------------------------------------------:|
 | Subspecies: SARS-CoV-2 (GISAID)     |      56,340,320       |       1,780,901 (~3.2)        | 273,851 (~0.5) &nbsp; <br> [![Download](https://img.shields.io/badge/DL-Subspecies-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_GISAID_SARSCoV2.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_GISAID_SARSCoV2.zip)      |
 | Species: *SARS-related coronavirus* |      4,669,400        |        480,112 (~10.3)        |      61,819 (~1.3)                                   |
 | Genus: *Betacoronavirus*            |      4,689,400        |        485,220 (~10.3)        |      65,117 (~1.3) &nbsp; <br> [![Download](https://img.shields.io/badge/DL-Genus-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Betacoronavirus.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/MinSet_NCBI_Betacoronavirus.zip)                               |
@@ -85,14 +85,18 @@ Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint
 <br>
 
 **Note:** All data were retrieved as of December 2022.
+|    Protein    | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
+|:-----------------------------------:|:---------------------:|:-----------------------------:|:---------------------------------------------------------------------------:|
+| SARS-CoV-2 Spike Protein (GISAID)   |      14,060,695       |       2,778,826 (~19.8)       | 112,912 (~0.8) &nbsp; <br> [![Download](https://img.shields.io/badge/DL-Spike-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/minSet_GISAID_spikeProt1208.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/minSet_GISAID_spikeProt1208.zip)      |
+
 |    Variant &nbsp; <br> [![Download](https://img.shields.io/badge/DL-EPI_ID_List-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/tree/main/ApplicationPaper_SARS-CoV-2/gisaid_idList_variant)](https://github.com/ChongLC/UNIQmin_PublicationData/tree/main/ApplicationPaper_SARS-CoV-2/gisaid_idList_variant)    | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
 |:--------------:|:---------------------:|:-----------------------------:|:---------------------------------------------------------------------------:|
 | Alpha          | 1,188,924             | 153,732 (~12.9)               | 25,169 (~2.1) |
 | Beta           | 43,299                | 17,766 (~41.0)                | 8,429 (~19.5) | 
-| Delta          | 4,527,917             | 950,886 (~21.0)               | 
+| Delta          | 4,527,917             | 950,886 (~21.0)               | 55,686 (~1.2) |
 | Gamma          | 129,136               | 27,720 (~21.5)                | 8,246 (~6.4)  |
 | Mu             | 15,792                | 5,277 (~33.4)                 | 2,078 (~13.2) |
-| Omicron        | 6,664,999             | 1,477,721 (~22.2)             | 
+| Omicron        | 6,664,999             | 1,477,721 (~22.2)             | 75,992 (~1.1) |
 
 
 ---
