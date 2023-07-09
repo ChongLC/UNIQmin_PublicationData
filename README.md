@@ -21,7 +21,7 @@ Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint
 example: [![DOI - 10.3390/biology10090853](https://img.shields.io/badge/DOI-10.3390%2Fbiology10090853-2ea44f)](https://doi.org/10.3390/biology10090853)
 -->
 <details>
-<summary>Click to view description of the project</summary> 
+<summary>Click to view the description of the project</summary> 
 <br> 
 
 > Sequence changes in viral genomes generate protein sequence diversity that enable viruses to evade the host immune system, hindering the development of effective preventive and therapeutic interventions. Massive proliferation of sequence data provides unprecedented opportunities to study viral adaptation and evolution. Alignment-free approach removes various restrictions, otherwise posed by an alignment-dependent approach for the study of sequence diversity. The publicly available tool, UNIQmin offers an alignment-free approach for the study of viral sequence diversity at any given rank of taxonomy lineage and is big data ready. The tool performs an exhaustive search to determine the minimal set of sequences required to capture the peptidome diversity within a given dataset. This compression is possible through the removal of identical sequences and unique sequences that do not contribute effectively to the peptidome diversity pool. Herein, we describe a detailed four-part protocol (BP1-4) utilizing UNIQmin to generate the minimal set for the purpose of viral diversity analyses at any rank of the taxonomy lineage, using Monkeypox virus (MPX) as a case study. These protocols enable systematic diversity studies across the taxonomic lineage, which are much needed for our future preparedness of a viral epidemic, in particular when data is in abundance and freely available.
@@ -63,7 +63,7 @@ Publication: &nbsp; ![Preprint - Coming soon!](https://img.shields.io/badge/prep
 Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint-bioRxiv-brightgreen)](https://www.biorxiv.org/content/10.1101/2022.10.31.513750v1.full)
 
 <details>
-<summary>Click to view description of the project</summary> 
+<summary>Click to view the description of the project</summary> 
 <br> 
 
 > The unprecedented increase in SARS-CoV-2 sequence data limits the application of alignment-dependent approaches to study viral diversity. Herein, we applied our recently published UNIQmin, an alignment-free tool to study the protein sequence diversity of SARS-CoV-2 (sub-species) and its higher taxonomic lineage ranks (species, genus, and family). Only less than 0.5% of the reported SARS-CoV-2 protein sequences are required to represent the inherent viral peptidome diversity, which only increases to a mere ~2% at the family rank. This is expected to remain relatively the same even with further increases in the sequence data. The findings have important implications in the design of vaccines, drugs, and diagnostics, whereby the number of sequences required for consideration of such studies is drastically reduced, short-circuiting the discovery process, while still providing for a systematic evaluation and coverage of the pathogen diversity.
@@ -84,11 +84,13 @@ Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint
 
 <br>
 
-**Note:** All data were retrieved as of December 2022.
-|    Protein    | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
+**Note:** SARS-CoV-2 Spike Protein
+|    Month-Year    | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
 |:-----------------------------------:|:---------------------:|:-----------------------------:|:---------------------------------------------------------------------------:|
-| SARS-CoV-2 Spike Protein (GISAID)   |      14,060,695       |       2,778,826 (~19.8)       | 112,912 (~0.8) &nbsp; <br> [![Download](https://img.shields.io/badge/DL-Spike-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/minSet_GISAID_spikeProt1208.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/minSet_GISAID_spikeProt1208.zip)      |
+| July 2021      |      2,115,156        |       358,096 (~16.9)         | 42,399 (~2.0) &nbsp; <br>      |
+| December 2022  |      14,060,695       |       2,778,826 (~19.8)       | 112,912 (~0.8) &nbsp; <br> [![Download](https://img.shields.io/badge/DL-Spike-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/minSet_GISAID_spikeProt1208.zip)](https://github.com/ChongLC/UNIQmin_PublicationData/blob/main/ApplicationPaper_SARS-CoV-2/minSet_GISAID_spikeProt1208.zip)      |
 
+**Note:** All data were retrieved as of December 2022.
 |    Variant &nbsp; <br> [![Download](https://img.shields.io/badge/DL-EPI_ID_List-informational?style=flat&logo=docusign&color=0A66C2&link=https://github.com/ChongLC/UNIQmin_PublicationData/tree/main/ApplicationPaper_SARS-CoV-2/gisaid_idList_variant)](https://github.com/ChongLC/UNIQmin_PublicationData/tree/main/ApplicationPaper_SARS-CoV-2/gisaid_idList_variant)    | Retrieval dataset (r) | Deduplicated dataset (% of r) |                           Minimal dataset (% of r)                          |
 |:--------------:|:---------------------:|:-----------------------------:|:---------------------------------------------------------------------------:|
 | Alpha          | 1,188,924             | 153,732 (~12.9)               | 25,169 (~2.1) |
@@ -111,5 +113,5 @@ Publication: &nbsp; [![Preprint - bioRxiv](https://img.shields.io/badge/preprint
 
 ---
 ## Found a bug?
-Or would like drop some feedback? <br>
+Or would like to drop some feedback? <br>
 Just [open a new issue](https://github.com/ChongLC/UNIQmin_PublicationData/issues) or send an email to us (lichuinchong@gmail.com).
